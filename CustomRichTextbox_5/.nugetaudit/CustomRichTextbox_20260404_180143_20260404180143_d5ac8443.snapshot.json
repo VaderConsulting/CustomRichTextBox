@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260404180143_d5ac8443",
+  "CapturedUtc": "2026-04-04T18:01:43.5720605+00:00",
+  "NormalisedContentHash": "FEBA720B71989C4A98B8077F45B07F3BC535D660305D35C95E5227865363FA8D",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "CustomRichTextbox",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextbox_5\\CustomRichTextbox_5.csproj",
+    "SolutionKey": "1BB6B3587BD22DFE",
+    "SourceIdentity": {
+      "IdentityKey": "1BB6B3587BD22DFE",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextbox_5\\CustomRichTextbox_5.csproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextbox_5",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "DFD35EBEB39A6AD9",
+      "ProjectName": "CustomRichTextbox",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextbox_5\\CustomRichTextbox_5.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net5.0",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}

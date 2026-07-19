@@ -1,0 +1,53 @@
+{
+  "SnapshotId": "20260405125434_f521dbb8",
+  "CapturedUtc": "2026-04-05T12:54:34.9149035+00:00",
+  "NormalisedContentHash": "3183222974C4107CC3201AC1A273AB5D4E9E08B9E50B56B1E10CD3AB68E7CFCF",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "VaderConsulting.CustomRichTextBox",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\VaderConsulting.CustomRichTextBox.sln",
+    "SolutionKey": "F544D4E0A87DDD58",
+    "SourceIdentity": {
+      "IdentityKey": "F544D4E0A87DDD58",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\VaderConsulting.CustomRichTextBox.sln",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "7FBB218761DD2C1A",
+      "ProjectName": "CustomRichTextBox",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextBox_48\\VaderConsulting.CustomRichTextBox_vb.vbproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    },
+    {
+      "ProjectId": "DFD35EBEB39A6AD9",
+      "ProjectName": "CustomRichTextbox",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextbox_5\\CustomRichTextbox_5.csproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": "net5.0",
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}

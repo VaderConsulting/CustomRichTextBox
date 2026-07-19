@@ -1,0 +1,8 @@
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\bin\Debug\ExtendedRichTextBox.dll
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\bin\Debug\ExtendedRichTextBox.pdb
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\bin\Debug\ExtendedRichTextBox.xml
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\CustomRichTextBox.vbproj.GenerateResource.Cache
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\ExtendedRichTextBox.dll
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\ExtendedRichTextBox.xml
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\ExtendedRichTextBox.pdb
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\VaderConsulting.ExtendedRichTextBox.Resources.resources

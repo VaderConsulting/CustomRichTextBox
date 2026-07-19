@@ -1,0 +1,10 @@
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\bin\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\bin\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\bin\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\VaderConsulting.CustomRichTextBox_vb.vbproj.AssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\VaderConsulting.Resources.resources
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\VaderConsulting.CustomRichTextBox_vb.vbproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\VaderConsulting.CustomRichTextBox_vb.vbproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\CustomRichTextBox_48\obj\Debug\CustomRichTextBox.pdb

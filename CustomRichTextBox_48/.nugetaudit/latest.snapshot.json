@@ -1,0 +1,38 @@
+{
+  "SnapshotId": "20260405125434_2c291611",
+  "CapturedUtc": "2026-04-05T12:54:34.0913199+00:00",
+  "NormalisedContentHash": "D81AAA297097FCA4861D3A5866396CB86D5589D035054B7D2A8420A6B7705931",
+  "AnalysisStatus": "Complete",
+  "Solution": {
+    "SolutionName": "CustomRichTextBox",
+    "SolutionPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextBox_48\\VaderConsulting.CustomRichTextBox_vb.vbproj",
+    "SolutionKey": "0D972CCC680C3D2E",
+    "SourceIdentity": {
+      "IdentityKey": "0D972CCC680C3D2E",
+      "IdentityKind": "disk-path",
+      "MachineName": "SURFACELAPTOP7",
+      "InputPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextBox_48\\VaderConsulting.CustomRichTextBox_vb.vbproj",
+      "RepositoryRootPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextBox_48",
+      "GitRemoteUrl": null,
+      "GitRemoteKey": null
+    }
+  },
+  "Projects": [
+    {
+      "ProjectId": "7FBB218761DD2C1A",
+      "ProjectName": "CustomRichTextBox",
+      "ProjectPath": "C:\\Users\\windo\\OneDrive\\Documents\\Development\\CustomRichTextBox\\CustomRichTextBox_48\\VaderConsulting.CustomRichTextBox_vb.vbproj",
+      "ProjectStyle": "Unknown",
+      "LoadState": "Loaded",
+      "AnalysisStatus": "Complete",
+      "TargetFrameworks": null,
+      "AssetsFilePath": null,
+      "PackagesLockFilePath": null,
+      "Packages": [],
+      "DependencyEdges": [],
+      "Diagnostics": [],
+      "Warnings": []
+    }
+  ],
+  "Warnings": []
+}

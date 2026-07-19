@@ -1,0 +1,55 @@
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\bin\Debug\CustomRichTextBox.dll
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\bin\Debug\CustomRichTextBox.pdb
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\bin\Debug\CustomRichTextBox.xml
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\VaderConsulting.Resources.resources
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.GenerateResource.Cache
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\CustomRichTextBox.dll
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\CustomRichTextBox.xml
+C:\Downloads\RichTextEditor\ExtendedRichTextBox\obj\Debug\CustomRichTextBox.pdb
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\bin\Debug\CustomRichTextBox.dll
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\bin\Debug\CustomRichTextBox.pdb
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\bin\Debug\CustomRichTextBox.xml
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\obj\Debug\VaderConsulting.Resources.resources
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.GenerateResource.Cache
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\obj\Debug\CustomRichTextBox.dll
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\obj\Debug\CustomRichTextBox.xml
+C:\Users\Dave\OneDrive\VS Projects\B4x\CustomRichTextBox\obj\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\bin\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\bin\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\bin\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbprojAssemblyReference.cache
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.Resources.resources
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.GenerateResource.cache
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\VS Projects\CustomRichTextBox\obj\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\bin\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\bin\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\bin\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbprojAssemblyReference.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.Resources.resources
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\Documents\VS Projects\CustomRichTextBox\obj\Debug\CustomRichTextBox.pdb
+C:\temp\CustomRichTextBox\bin\Debug\CustomRichTextBox.dll
+C:\temp\CustomRichTextBox\bin\Debug\CustomRichTextBox.pdb
+C:\temp\CustomRichTextBox\bin\Debug\CustomRichTextBox.xml
+C:\temp\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbprojAssemblyReference.cache
+C:\temp\CustomRichTextBox\obj\Debug\VaderConsulting.Resources.resources
+C:\temp\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.GenerateResource.cache
+C:\temp\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.CoreCompileInputs.cache
+C:\temp\CustomRichTextBox\obj\Debug\CustomRichTextBox.dll
+C:\temp\CustomRichTextBox\obj\Debug\CustomRichTextBox.xml
+C:\temp\CustomRichTextBox\obj\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\bin\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\bin\Debug\CustomRichTextBox.pdb
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\bin\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\obj\Debug\VaderConsulting.Resources.resources
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.GenerateResource.cache
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\obj\Debug\VaderConsulting.CustomRichTextBox.vbproj.CoreCompileInputs.cache
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\obj\Debug\CustomRichTextBox.dll
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\obj\Debug\CustomRichTextBox.xml
+C:\Users\windo\OneDrive\Documents\Development\CustomRichTextBox\obj\Debug\CustomRichTextBox.pdb
