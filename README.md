@@ -42,3 +42,8 @@ doc.PrintPage += (s, e) =>
 };
 doc.Print();
 ```
+
+## Requirements
+
+- Visual Studio 2019, .NET 5.0, .NET Framework 3.5
+
