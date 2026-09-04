@@ -1,9 +1,8 @@
-﻿# CustomRichTextBox
-
-**Source last updated:** 2021-09-12
+# CustomRichTextBox
 
 A Windows Forms `RichTextBox` control extended with **print support** and **drag-and-drop text**, available in both VB.NET (.NET 4.8) and C# (.NET 5) editions.
 
+**Source last updated:** 2021-09-12
 **Initiated:** 2015-03-02 · **Solution:** `VaderConsulting.CustomRichTextBox.sln`
 
 ---
