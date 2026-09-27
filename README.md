@@ -13,7 +13,7 @@ The standard `RichTextBox` provides no built-in printing. This library adds prin
 
 ---
 
-## Projects
+## Solution structure
 
 | Project | Language | Target |
 |---------|----------|--------|
@@ -42,7 +42,20 @@ doc.PrintPage += (s, e) =>
 doc.Print();
 ```
 
+## How to open
+
+Open `VaderConsulting.CustomRichTextBox.sln` in Visual Studio 2019 or later.
+
 ## Requirements
 
-- Visual Studio 2019, .NET 5.0, .NET Framework 3.5
+- Visual Studio 2019 to 2022
+- .NET Framework 4.8 (VB.NET project) and .NET 5 (C# project)
 
+## Attribution and provenance
+
+my working copy from Development folder `CustomRichTextBox`.
+Originally based on Microsoft KB article 811401 for RichTextBox printing via EM_FORMATRANGE.
+
+## License
+
+MIT © 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
